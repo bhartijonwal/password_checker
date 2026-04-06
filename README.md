@@ -2,11 +2,15 @@
 
 A Python-based tool that evaluates the strength of a password based on commonly accepted security rules such as length, uppercase and lowercase letters, digits, and special characters.
 
-This project demonstrates basic Python programming concepts including conditional logic, string handling, and regular expressions.
-
+## Why this project is useful
+This project demonstrates:
+- Input validation and string analysis.
+- Rule-based security checks.
+- Structured result modeling using a dataclass.
+- Automated testing with `pytest`.
 ---
 
-## 📌 Features
+## Features
 
 - Checks minimum password length
 - Detects presence of:
