@@ -43,6 +43,6 @@ The program evaluates a password based on several criteria:
 
 The password is scored based on these checks and categorized accordingly.
 
-<img width="502" height="153" alt="image" src="https://github.com/user-attachments/assets/b2ef6256-825b-407b-a92c-3bb435a9c92d" />
+<img width="579" height="235" alt="image" src="https://github.com/user-attachments/assets/d59c5b11-5429-4ca9-8a96-6ad68cdebb89" />
 
 ---
